@@ -1,5 +1,8 @@
  👖 Men's Jeans Trend Predictor — Myntra
 
+ ## 🌐 Live Demo 👉 [Click here to view the dashboard]
+ https://mens-jeans-trend-predictor-mgylrcozpaqldtcsdqfvkv.streamlit.app/
+
 > Predicting trending products using price, discount & rating signals — built for retail analytics internship applications.
 
 ## 🎯 Problem
