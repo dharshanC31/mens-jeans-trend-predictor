@@ -47,4 +47,5 @@ streamlit run app.py
 ```
 
 ## 👤 Author
-Your Dharshan C | B.Com Business Analytics |
+Dharshan C | B.Com Business Analytics |
+
